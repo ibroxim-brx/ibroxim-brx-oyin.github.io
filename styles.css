@@ -1,0 +1,28 @@
+body{
+	padding: 0;
+	margin: 0;
+	background-image: url(img/bc.jpg);
+	background-size: cover;
+}
+.container{
+	margin: 200px 200px;
+}
+.guess_input{
+	height: 50px;
+	border: none;
+	font-size: 32px;
+	background-color: #35f8d6;
+	border-radius: 20px;
+}
+.guess_button{
+	background-color: #3fe778;
+	font-size: 32px;
+	height: 50px;
+	width: 100px;
+	border: none;
+	border-radius: 20px;
+}
+p{
+	font-size: 48px;
+	color: #EEE;
+}
